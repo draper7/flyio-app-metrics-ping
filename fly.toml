@@ -1,0 +1,10 @@
+app = "twilight-morning-5121"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
+
+[metrics]
+port = 7777
+path = "/metrics"
